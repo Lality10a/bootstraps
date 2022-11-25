@@ -1,0 +1,48 @@
+.navbar img {
+	width: 100px;
+}
+
+.menu {
+	background-color: #000000;
+}
+
+.menu button {
+	background-color: #ffffff;
+}
+
+#pres {
+	background-image: url('img/pres.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+#histoire {
+	background-image: url('img/histoire.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+#personnages {
+	background-image: url('img/personnages.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.padding {
+	padding: 200px 0;
+}
+
+h1 {
+	font-size: 100px;
+}
+
+#footer {
+	background-color: #000000;
+}
+
+#footer img {
+	display: block;
+}
